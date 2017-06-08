@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<resource>
+	<UIDEF>
+		<file name="XML_INIT" path="uidef\init.xml" />
+	</UIDEF>
+	<LAYOUT>
+		<file name="XML_MAINWND" path="xml\dlg_main.xml" />
+		<file name="PAGE_LOGIN" path="xml\page_login.xml" />
+	</LAYOUT>
+	<values>
+		<file name="string" path="values\string.xml" />
+		<file name="color" path="values\color.xml" />
+		<file name="skin" path="values\skin.xml" />
+	</values>
+	<ICON>
+		<file name="ICON_LOGO" path="image\soui.ico" />
+	</ICON>
+	<layout />
+	<icon />
+	<imgx />
+	<image>
+		<file name="avatars" path="image\avatars[8].png" />
+		<file name="getpswback" path="image\getpswback[3].png" />
+		<file name="head_mask" path="image\head_mask.png" />
+		<file name="keyboard" path="image\keyboard[4].png" />
+		<file name="login2" path="image\login2[3].PNG" />
+		<file name="login" path="image\login[3].png" />
+		<file name="login_2dcode" path="image\login_2dcode[3].PNG" />
+		<file name="login_border" path="image\login_border[1{9,9,9,9}].png" />
+		<file name="login_setting" path="image\login_setting[3].png" />
+		<file name="register" path="image\register[3].png" />
+		<file name="soui" path="image\soui.ico" />
+		<file name="user_list_closr" path="image\user_list_closr[3].png" />
+	</image>
+</resource>

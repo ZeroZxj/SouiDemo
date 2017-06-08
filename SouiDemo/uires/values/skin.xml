@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<skin>
+	<imglist name="avatars" src="image:avatars" states="8" enableColorize="0" />
+	<imglist name="getpswback" src="image:getpswback" states="3" enableColorize="0" />
+	<imglist name="head_mask" src="image:head_mask" states="1" enableColorize="0" />
+	<imglist name="keyboard" src="image:keyboard" states="4" enableColorize="0" />
+	<imglist name="login2" src="image:login2" states="3" enableColorize="0" />
+	<imglist name="login" src="image:login" states="3" enableColorize="0" />
+	<imglist name="login_2dcode" src="image:login_2dcode" states="3" enableColorize="0" />
+	<imgframe name="login_border" src="image:login_border" states="1" margin="9,9,9,9" enableColorize="0" />
+	<imglist name="login_setting" src="image:login_setting" states="3" enableColorize="0" />
+	<imglist name="register" src="image:register" states="3" enableColorize="0" />
+	<imglist name="soui" src="image:soui" states="1" enableColorize="0" />
+	<imglist name="user_list_closr" src="image:user_list_closr" states="3" enableColorize="0" />
+</skin>

@@ -1,0 +1,14 @@
+﻿<SOUI name="mainWindow" title="QQLogin[SOUI]" bigIcon="ICON_LOGO:32" smallIcon="ICON_LOGO:16" width="390" height="304" resizable="0" wndType="appMain"
+appWnd="1"
+translucent="1" >
+	<root>
+		<window pos="0,0,-0,-0" skin="login_border" cache="1">
+		  <tabctrl name="tab_main" pos="5,5,-5,-5" tabHeight="0" >
+			<page title="login">
+			  <include src="LAYOUT:PAGE_LOGIN"/>
+			</page>
+		  </tabctrl>
+		</window>
+		<Turn3dView name="turn3d" pos="0,0,-0,-0"/>
+	</root>
+</SOUI>
